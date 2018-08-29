@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "8a288d06a392d780912610822ab37e91ce322851",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "grain_polygon_blob": [],
+    "load_holder": "10-hole",
+    "load_name": "D0008",
+    "measured_response": "YiJceDlmXHhmZFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4YzB3XHhkYj1ceDAwXHgwMFx4ZmFEZFx4MDRceDA3QFx4MDBceDAwXHhmYURPXHg4Mlx4ODNAXHgwMFx4MDBceGZhRFx4ZTBceGFjXHhjM0BceDAwXHgwMFx4ZmFEXHhmNVx4ZWVceDAxQVx4MDBceDAwXHhmYURceDAyXHhmNiFBXHgwMFx4MDBceGZhRFx4ZjRceDA1QkFceDAwXHgwMFx4ZmFEXHgwMiBiQVx4MDBceDAwXHhmYURceGQwXHgxNVx4ODFBXHgwMFx4MDBceGZhRCdceDE1XHg5MUFceDAwXHgwMFx4ZmFEXHhlNFx4MTVceGExQVx4MDBceDAwXHhmYURcdFx4MWFceGIxQVx4MDBceDAwXHhmYURqKFx4YzFBXHgwMFx4MDBceGZhRFx4ZjMuXHhkMUFceDAwXHgwMFx4ZmFEXFwxXHhlMUFceDAwXHgwMFx4ZmFEXHg4YzNceGYxQVx4MDBceDAwXHhmYURtXHhhMlx4MDBCXHgwMFx4MDBceGZhRFxcXHhiYVx4MDhCXHgwMFx4MDBceGZhRFx4YmZceGJlXHgxMEJceDAwXHgwMFx4ZmFEXHhjYlx4YzNceDE4Qlx4MDBceDAwXHhmYURceDkyXHhjNiBCXHgwMFx4MDBceGZhRFx4ZWVceGNjKEJceDAwXHgwMFx4ZmFEdFx4ZDMwQlx4MDBceDAwXHhmYUQi",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YiJceDlmXHhmZFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4YzB3XHhkYj0/XVx4YWRBZFx4MDRceDA3QFx4MDBceDAwXHgwMFx4MDBPXHg4Mlx4ODNAXHhlZVx4YzlceGFlQVx4ZTBceGFjXHhjM0BceGVlXHhjOVx4YWVBXHhmNVx4ZWVceDAxQVx4ZWVceGM5XHhhZUFceDAyXHhmNiFBXHhlZVx4YzlceGFlQVx4ZjRceDA1QkFceGVlXHhjOVx4YWVBXHgwMiBiQVx4ZWVceGM5XHhhZUFceGQwXHgxNVx4ODFBXHhlZVx4YzlceGFlQSdceDE1XHg5MUFceGVlXHhjOVx4YWVBXHhlNFx4MTVceGExQVx4ZWVceGM5XHhhZUFcdFx4MWFceGIxQVx4ZWVceGM5XHhhZUFqKFx4YzFBXHhlZVx4YzlceGFlQVx4ZjMuXHhkMUFceGVlXHhjOVx4YWVBXFwxXHhlMUFceGVlXHhjOVx4YWVBXHg4YzNceGYxQVx4ZWVceGM5XHhhZUFtXHhhMlx4MDBCXHhlZVx4YzlceGFlQVxcXHhiYVx4MDhCXHhlZVx4YzlceGFlQVx4YmZceGJlXHgxMEJceGVlXHhjOVx4YWVBXHhjYlx4YzNceDE4Qlx4ZWVceGM5XHhhZUFceDkyXHhjNiBCXHhlZVx4YzlceGFlQVx4ZWVceGNjKEJceGVlXHhjOVx4YWVBdFx4ZDMwQlx4ZWVceGM5XHhhZUEi",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "9-hole",
+    "videos": [],
+    "weight": 95.5
+}
