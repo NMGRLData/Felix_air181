@@ -1,0 +1,151 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 355,
+    "analysis_type": "blank_air",
+    "analyst_name": "MHeizler",
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "80193bd5e716de5c474f5c46469ad357dad94c12",
+    "conditionals": [
+        {
+            "analysis_types": [],
+            "frequency": 10,
+            "hash_id": -9121428865716155735,
+            "level": 10,
+            "location": "setupfiles/spectrometer/default_conditionals.yaml",
+            "ntrips": 1,
+            "start_count": 5,
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ],
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L2(CDD)": {
+            "deflection": 0.0,
+            "gain": 1
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2018-12-17T04:56:51",
+                "title": "iServer Hum.",
+                "value": 17.1
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure",
+                "name": "Pressure",
+                "pub_date": "2018-12-17T07:58:56",
+                "title": "Building",
+                "value": 100.0
+            },
+            {
+                "device": "MicroBoneGaugeController",
+                "name": "JanDecabinPressure",
+                "pub_date": "2018-12-17T07:32:21",
+                "title": "Jan Decabin",
+                "value": 1.9
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger",
+                "name": "ColdFinger Temp.",
+                "pub_date": "2018-12-16T22:45:29",
+                "title": "Cold Finger",
+                "value": -20.0
+            },
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2018-12-17T08:16:03",
+                "title": "iServer Temp.",
+                "value": 71.2
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2018-12-17T08:14:00",
+                "title": "Coolant",
+                "value": 16.1
+            }
+        ]
+    },
+    "experiment_queue_name": "LoadD0016",
+    "extraction": "felix_air_x1.py",
+    "identifier": "ba-02-F",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 18,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Felix",
+    "material": "Blank",
+    "measurement": "felix_analysis340_60_no_center.py",
+    "post_equilibration": "felix_pump_extraction_line.py",
+    "post_measurement": "felix_pump_ms.py",
+    "principal_investigator": "NMGRL",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Felix_air181",
+    "sample": "blank_air",
+    "source": {
+        "emission": 826.98,
+        "trap": 248.831
+    },
+    "spec_sha": "d0da507d515d9b0bcd67c80f3ee65074941194be",
+    "timestamp": "2018-12-17T08:18:38.478412",
+    "tripped_conditional": null,
+    "username": "MHeizler",
+    "uuid": "7371b5a7-4be5-43b9-bd4b-95ee6cb6f0ef",
+    "whiff_result": null
+}
